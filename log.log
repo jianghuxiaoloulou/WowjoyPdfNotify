@@ -1,0 +1,107 @@
+2020-08-31 13:59:17.140 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:45] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-08-31 13:59:17.140 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:88] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-08-31 13:59:17.141 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:96] url:  http://127.0.0.1:5050/upload
+2020-08-31 13:59:17.141 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] fileSavePath:  \\192.168.10.44\aaaa
+2020-08-31 13:59:17.142 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] transportType:  1
+2020-08-31 13:59:17.142 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:58] 开始执行获取pdf路径协程.....
+2020-08-31 13:59:17.142 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 1
+2020-08-31 13:59:17.142 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:62] 没有获取到文件路径
+2020-08-31 13:59:17.143 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:52] 程序结束
+2020-08-31 14:55:12.992 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:87] 开始读取配置文件....
+2020-08-31 14:55:12.993 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:57] 开始执行获取pdf路径协程.....
+2020-08-31 14:55:12.993 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:59] 2
+2020-08-31 14:55:12.994 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:65] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\207301541282536032202007301540302314601_5.pdf
+2020-08-31 14:55:12.994 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:51] 程序结束
+2020-08-31 15:08:10.009 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:45] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:08:10.009 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:88] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:96] url:  http://127.0.0.1:5050/upload
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] fileSavePath:  \\192.168.10.44\aaaa
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] transportType:  1
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:58] 开始执行获取pdf路径协程.....
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 2
+2020-08-31 15:08:10.011 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:66] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\207301541282536032202007301540302314601_6.pdf
+2020-08-31 15:08:11.029 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:52] 程序结束
+2020-08-31 15:09:45.219 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:45] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:09:45.219 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:88] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:09:45.219 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:96] url:  http://127.0.0.1:5050/upload
+2020-08-31 15:09:45.219 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] fileSavePath:  \\192.168.10.44\aaaa
+2020-08-31 15:09:45.220 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] transportType:  1
+2020-08-31 15:09:45.220 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:58] 开始执行获取pdf路径协程.....
+2020-08-31 15:09:45.221 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 2
+2020-08-31 15:09:45.221 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:66] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\207301541282536032202007301540302314601_7.pdf
+2020-08-31 15:09:46.232 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:52] 程序结束
+2020-08-31 15:10:02.956 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:45] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:10:02.957 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:88] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:10:02.957 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:96] url:  http://127.0.0.1:5050/upload
+2020-08-31 15:10:02.958 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] fileSavePath:  \\192.168.10.44\aaaa
+2020-08-31 15:10:02.958 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] transportType:  1
+2020-08-31 15:10:02.958 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:58] 开始执行获取pdf路径协程.....
+2020-08-31 15:10:02.958 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 2
+2020-08-31 15:10:02.958 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:66] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\207301541282536032202007301540302314601_8.pdf
+2020-08-31 15:10:03.974 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:52] 程序结束
+2020-08-31 15:11:12.621 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:45] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:11:12.621 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:88] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify\WowjoyPdfNotify
+2020-08-31 15:11:12.621 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:96] url:  http://127.0.0.1:5050/upload
+2020-08-31 15:11:12.621 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] fileSavePath:  \\192.168.10.44\aaaa
+2020-08-31 15:11:12.622 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] transportType:  1
+2020-08-31 15:11:12.622 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:58] 开始执行获取pdf路径协程.....
+2020-08-31 15:11:12.622 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 2
+2020-08-31 15:11:12.622 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:66] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\207301541282536032202007301540302314601_9.pdf
+2020-08-31 15:11:13.636 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:52] 程序结束
+2020-12-28 16:50:17.035 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:46] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-28 16:50:17.035 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:89] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] url:  http://127.0.0.1:5050/upload/
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] transportType:  1
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:59] 开始执行获取pdf路径协程.....
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:61] 1
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:63] 没有获取到文件路径
+2020-12-28 16:50:17.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:53] 程序结束
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:46] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:89] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:97] url:  http://127.0.0.1:5050/upload/
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] transportType:  1
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:59] 开始执行获取pdf路径协程.....
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:61] 1
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:63] 没有获取到文件路径
+2020-12-28 16:51:34.659 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:53] 程序结束
+2020-12-31 09:45:53.568 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:47] d:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:45:53.568 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:90] 开始读取配置文件.... d:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] url:  http://127.0.0.1:5050/upload/
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:100] transportType:  1
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 开始执行获取pdf路径协程.....
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:62] 1
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:64] 没有获取到文件路径
+2020-12-31 09:45:53.580 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:54] 程序结束
+2020-12-31 09:52:30.064 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:47] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:52:30.065 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:90] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:52:30.069 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] url:  http://127.0.0.1:5050/upload/
+2020-12-31 09:52:30.070 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-31 09:52:30.071 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:100] transportType:  1
+2020-12-31 09:52:30.071 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 开始执行获取pdf路径协程.....
+2020-12-31 09:52:30.071 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:62] 2
+2020-12-31 09:52:30.072 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:68] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\203181502480215DCG0220200318001301_0001.pdf
+2020-12-31 09:52:30.075 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:153] http://127.0.0.1:5050/upload/2bc087cfdc8018eae475cb0f159585ca
+2020-12-31 09:52:31.078 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:54] 程序结束
+2020-12-31 09:54:10.388 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:47] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:54:10.389 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:90] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] url:  http://127.0.0.1:5050/upload/
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:100] transportType:  1
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 开始执行获取pdf路径协程.....
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:62] 2
+2020-12-31 09:54:10.391 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:68] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\203181502480215DCG0220200318001301_0001.pdf
+2020-12-31 09:54:10.394 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:153] http://127.0.0.1:5050/upload/d0470b55f24d9563cc1e7927baadb67b
+2020-12-31 09:54:11.404 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:54] 程序结束
+2020-12-31 09:56:38.341 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:47] D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:56:38.341 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:90] 开始读取配置文件.... D:\Go_Work\src\WowjoyProject\WowjoyPdfNotify
+2020-12-31 09:56:38.342 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:98] url:  http://127.0.0.1:5050/upload/
+2020-12-31 09:56:38.343 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:99] fileSavePath:  \\192.168.10.44\aaaa
+2020-12-31 09:56:38.343 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:100] transportType:  1
+2020-12-31 09:56:38.343 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:60] 开始执行获取pdf路径协程.....
+2020-12-31 09:56:38.343 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:62] 2
+2020-12-31 09:56:38.343 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:68] 获取的文件路径是： C:\Users\ZSH\Desktop\20200320\20200325\203181502480215DCG0220200318001301_0001.pdf
+2020-12-31 09:56:38.348 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:153] http://127.0.0.1:5050/upload/89ba088e74a78202ef2e35ca7fb3a05a
+2020-12-31 09:56:39.352 [DEBG] [WowjoyProject/WowjoyPdfNotify/main.go:54] 程序结束
